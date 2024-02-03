@@ -1,7 +1,7 @@
 use rand::prelude::SliceRandom;
 use rand::thread_rng;
 
-fn create_fruit_salad(num_fruits: usize) -> Vec<String> {
+pub fn create_fruit_salad(num_fruits: usize) -> Vec<String> {
     let fruits = vec![
         "Arbutus".to_owned(),
         "Strawberry".to_owned(),
