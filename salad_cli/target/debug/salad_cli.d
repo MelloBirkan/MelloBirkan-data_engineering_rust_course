@@ -1,0 +1,1 @@
+V:\Developer\Langs\Rust\MelloBirkan-data_engineering_rust_course\salad_cli\target\debug\salad_cli.exe: V:\Developer\Langs\Rust\MelloBirkan-data_engineering_rust_course\salad_cli\src\lib.rs V:\Developer\Langs\Rust\MelloBirkan-data_engineering_rust_course\salad_cli\src\main.rs
