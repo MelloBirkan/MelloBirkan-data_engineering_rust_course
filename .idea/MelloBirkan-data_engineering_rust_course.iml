@@ -7,11 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/linked_list/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/salad_cli/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab_salad_cli/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/hashmap_count/target" />
       <excludeFolder url="file://$MODULE_DIR$/hashmap_languages/target" />
       <excludeFolder url="file://$MODULE_DIR$/linked_list/target" />
       <excludeFolder url="file://$MODULE_DIR$/salad_cli/target" />
       <excludeFolder url="file://$MODULE_DIR$/vector/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lab_salad_cli/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
